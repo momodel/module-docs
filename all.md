@@ -367,9 +367,17 @@ Mo 的目标是“降低人工智能开发门槛”，我们希望构建一个�
 **开发者用户交流QQ群**：495770120
 
 **浙江大学Python兴趣群**：651025483
+ <div>
+    <h3>微信公众号: MomodelAI</h3>
+    <img src='https://mo-imgs.momodel.cn/WeChatPublicAccount.png' height="220"/>
+ </div>
+ <br/>
+ <br/>
 
-**公众号与微信交流群**：
+<div>
+    <h3>添加管理员微信加入AI俱乐部群聊</h3>
+    <img src='https://mo-imgs.momodel.cn/wechat_office_contact.png' height="210">
+</div>
 
-<img src="http://imgbed.momodel.cn//20191129105421.png" width=800>
 
 
