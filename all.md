@@ -372,8 +372,6 @@ Mo 的目标是“降低人工智能开发门槛”，我们希望构建一个�
     <img src='https://mo-imgs.momodel.cn/WeChatPublicAccount.png' height="220"/>
  </div>
  <br/>
- <br/>
-
 <div>
     <h3>添加管理员微信加入AI俱乐部群聊</h3>
     <img src='https://mo-imgs.momodel.cn/wechat_office_contact.png' height="210">
